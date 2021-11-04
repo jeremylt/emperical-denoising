@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$io__png_8c.html#a6169473ab2310b98f1602bf87c4ae09c" title="internal function used to read a PNG file into an array" alt="" coords="204,5,321,35"/>
+<area shape="rect" href="$io__png_8c.html#a4a3ceb9ec83c1dd6dcf1b431a845a9e3" title="internal function used to cleanup the memory when png_read_raw() fails" alt="" coords="371,5,499,35"/>
+</map>

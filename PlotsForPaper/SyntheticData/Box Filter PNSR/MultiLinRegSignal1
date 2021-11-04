@@ -1,0 +1,151 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   PSNR   R-squared:                       0.971
+Model:                            OLS   Adj. R-squared:                  0.971
+Method:                 Least Squares   F-statistic:                     3291.
+Date:                Thu, 03 Jul 2014   Prob (F-statistic):           3.24e-77
+Time:                        10:34:27   Log-Likelihood:                -203.90
+No. Observations:                 100   AIC:                             411.8
+Df Residuals:                      98   BIC:                             417.0
+Df Model:                           1                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [95.0% Conf. Int.]
+------------------------------------------------------------------------------
+Intercept     85.4929      0.301    283.951      0.000        84.895    86.090
+Noise         -1.0227      0.018    -57.363      0.000        -1.058    -0.987
+==============================================================================
+Omnibus:                        1.840   Durbin-Watson:                   0.976
+Prob(Omnibus):                  0.399   Jarque-Bera (JB):                1.268
+Skew:                          -0.211   Prob(JB):                        0.530
+Kurtosis:                       3.354   Cond. No.                         27.1
+==============================================================================
+
+
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   PSNR   R-squared:                       0.000
+Model:                            OLS   Adj. R-squared:                 -0.010
+Method:                 Least Squares   F-statistic:                   0.04312
+Date:                Thu, 03 Jul 2014   Prob (F-statistic):              0.836
+Time:                        10:34:56   Log-Likelihood:                -381.04
+No. Observations:                 100   AIC:                             766.1
+Df Residuals:                      98   BIC:                             771.3
+Df Model:                           1                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [95.0% Conf. Int.]
+------------------------------------------------------------------------------
+Intercept     72.6085      3.162     22.966      0.000        66.334    78.882
+Window        -0.1025      0.494     -0.208      0.836        -1.082     0.877
+==============================================================================
+Omnibus:                      107.550   Durbin-Watson:                   0.116
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):                9.101
+Skew:                          -0.217   Prob(JB):                       0.0106
+Kurtosis:                       1.587   Cond. No.                         18.7
+==============================================================================
+
+
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   PSNR   R-squared:                       0.001
+Model:                            OLS   Adj. R-squared:                 -0.020
+Method:                 Least Squares   F-statistic:                   0.03784
+Date:                Thu, 03 Jul 2014   Prob (F-statistic):              0.963
+Time:                        10:35:24   Log-Likelihood:                -381.03
+No. Observations:                 100   AIC:                             768.1
+Df Residuals:                      97   BIC:                             775.9
+Df Model:                           2                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [95.0% Conf. Int.]
+----------------------------------------------------------------------------------
+Intercept         71.0467      9.167      7.750      0.000        52.852    89.241
+Window             0.5020      3.365      0.149      0.882        -6.177     7.182
+I(Window ** 2)    -0.0504      0.277     -0.182      0.856        -0.601     0.500
+==============================================================================
+Omnibus:                      107.331   Durbin-Watson:                   0.115
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):                9.088
+Skew:                          -0.215   Prob(JB):                       0.0106
+Kurtosis:                       1.587   Cond. No.                         435.
+==============================================================================
+
+
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   PSNR   R-squared:                       0.735
+Model:                            OLS   Adj. R-squared:                  0.732
+Method:                 Least Squares   F-statistic:                     271.8
+Date:                Thu, 03 Jul 2014   Prob (F-statistic):           5.14e-30
+Time:                        10:43:54   Log-Likelihood:                -314.67
+No. Observations:                 100   AIC:                             633.3
+Df Residuals:                      98   BIC:                             638.5
+Df Model:                           1                                         
+================================================================================
+                   coef    std err          t      P>|t|      [95.0% Conf. Int.]
+--------------------------------------------------------------------------------
+Intercept       82.0753      0.835     98.297      0.000        80.418    83.732
+Noise:Window    -0.1273      0.008    -16.486      0.000        -0.143    -0.112
+==============================================================================
+Omnibus:                       19.660   Durbin-Watson:                   0.357
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               23.821
+Skew:                          -1.121   Prob(JB):                     6.72e-06
+Kurtosis:                       3.829   Cond. No.                         159.
+==============================================================================
+
+
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   PSNR   R-squared:                       0.972
+Model:                            OLS   Adj. R-squared:                  0.971
+Method:                 Least Squares   F-statistic:                     822.8
+Date:                Thu, 03 Jul 2014   Prob (F-statistic):           9.00e-73
+Time:                        10:36:13   Log-Likelihood:                -202.39
+No. Observations:                 100   AIC:                             414.8
+Df Residuals:                      95   BIC:                             427.8
+Df Model:                           4                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [95.0% Conf. Int.]
+----------------------------------------------------------------------------------
+Intercept         84.2059      1.692     49.760      0.000        80.846    87.565
+Noise             -0.9969      0.051    -19.520      0.000        -1.098    -0.896
+Window             0.5588      0.579      0.964      0.337        -0.592     1.709
+Noise:Window      -0.0043      0.008     -0.539      0.591        -0.020     0.012
+I(Window ** 2)    -0.0504      0.047     -1.073      0.286        -0.144     0.043
+==============================================================================
+Omnibus:                        1.225   Durbin-Watson:                   0.971
+Prob(Omnibus):                  0.542   Jarque-Bera (JB):                0.854
+Skew:                          -0.217   Prob(JB):                        0.652
+Kurtosis:                       3.131   Cond. No.                     1.10e+03
+==============================================================================
+
+Warnings:
+[1] The condition number is large, 1.1e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   PSNR   R-squared:                       0.972
+Model:                            OLS   Adj. R-squared:                  0.971
+Method:                 Least Squares   F-statistic:                     1105.
+Date:                Thu, 03 Jul 2014   Prob (F-statistic):           2.88e-74
+Time:                        10:36:38   Log-Likelihood:                -202.54
+No. Observations:                 100   AIC:                             413.1
+Df Residuals:                      96   BIC:                             423.5
+Df Model:                           3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [95.0% Conf. Int.]
+----------------------------------------------------------------------------------
+Intercept         84.5463      1.564     54.054      0.000        81.442    87.651
+Noise             -1.0227      0.018    -57.556      0.000        -1.058    -0.987
+Window             0.5020      0.568      0.884      0.379        -0.625     1.629
+I(Window ** 2)    -0.0504      0.047     -1.077      0.284        -0.143     0.043
+==============================================================================
+Omnibus:                        0.962   Durbin-Watson:                   0.974
+Prob(Omnibus):                  0.618   Jarque-Bera (JB):                0.628
+Skew:                          -0.185   Prob(JB):                        0.731
+Kurtosis:                       3.118   Cond. No.                         451.
+==============================================================================

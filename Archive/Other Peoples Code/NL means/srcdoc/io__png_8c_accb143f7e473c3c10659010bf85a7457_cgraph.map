@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" href="$io__png_8c.html#a3ec19484bff2e7c83cc7e513ede5e4ea" title="internal function used to write a byte array as a PNG file" alt="" coords="168,5,288,35"/>
+<area shape="rect" href="$io__png_8c.html#a4f5427e76fa886b65fdefb2cf4f12ff2" title="internal function used to cleanup the memory when png_write_raw() fails" alt="" coords="337,5,465,35"/>
+</map>

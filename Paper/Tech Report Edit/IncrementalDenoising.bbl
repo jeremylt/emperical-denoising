@@ -1,0 +1,99 @@
+\begin{thebibliography}{10}
+
+\bibitem{Buades05}
+Antoni Buades, Bartomeu Coll, and Jean~Michel Morel.
+\newblock Image denoising based on gaussian/bilateral filter and its method
+  noise thresholding.
+\newblock {\em Multiscale Modeling and Simulation}, 4(2):490--530, 2005.
+
+\bibitem{Galiano13}
+Gonzalo~Galiano Casas and Julián~Velasco Valdés.
+\newblock On a non-local spectrogram for denoising one-dimensional signals.
+\newblock {\em CoRR}, 2013.
+
+\bibitem{Coupe07}
+Pierrick Coup{\'e}, Pierre Yger, Sylvain Prima, Pierre Hellier, Charles
+  Kervrann, and Christian Barillot.
+\newblock An optimized blockwise non local means denoising filter for 3d
+  magnetic resonance images.
+\newblock {\em IEEE Transactions on Medical Imaging}, 2007.
+
+\bibitem{Donoho94}
+David Donoho and Iain Johnstone.
+\newblock Ideal spatial adaptation via wavelet shrinkage.
+\newblock {\em Biometrika, Vol 81, No. 3}, pages 425--455, 1994.
+
+\bibitem{Duval11}
+Vincent Duval, Jean-Francois Aujol, and Yann Gousseau.
+\newblock On the parameter choice for the non-local means.
+\newblock {\em SIAM Journal on Imaging Sciences}, 2011.
+
+\bibitem{fodor03:denoising}
+I.~K. Fodor and C.~Kamath.
+\newblock Denoising through wavelet shrinkage: An empirical study.
+\newblock {\em SPIE Journal on Electronic Imaging}, 12(1):151--160, 2003.
+
+\bibitem{Gasser86}
+Theo Gasser, Lothar Sroka, and Christine Jennen-Stienmetz.
+\newblock Residual variance and residual pattern in nonlinear regression.
+\newblock {\em Biometrika}, 73(3):625--633, 1986.
+
+\bibitem{Graps95}
+Amara Graps.
+\newblock An introduction to wavelets.
+\newblock {\em Computational Science Engineering, IEEE}, 2(2):50--61, Summer
+  1995.
+
+\bibitem{Thu08}
+Q.~Huynh-Thu and M.~Ghanbari.
+\newblock Scope of validity of psnr in image/video quality assessment.
+\newblock {\em Electron Lett.}, 44(13):800--801, 2008.
+
+\bibitem{immerkaer96:noise}
+J.~Immerkaer.
+\newblock Fast noise variance estimation.
+\newblock {\em Computer Vision and Image Understanding}, 64:300--302, 1996.
+
+\bibitem{Mota05}
+Hilton Mota, Fl{\'a}vio Vasconcelos, and Rog{\'e}rio da~Silva.
+\newblock Real-time wavelet transform algorithms for the processing of
+  continuous streams of data.
+\newblock In {\em Intelligent Signal Processing, 2005 IEEE International
+  Workshop on}, pages 346--351, Sept 2005.
+
+\bibitem{Rangarajan02}
+Raghuram Rangarajan, Ramji Venkataramanan, and S.~Shah.
+\newblock Image denoising using wavelets.
+\newblock Technical report, University of Michigan, 2002.
+
+\bibitem{tomasi98:bilateral}
+C.~Tomasi and R.~Manduchi.
+\newblock Bilateral filtering for gray and color images.
+\newblock In {\em Proceedings, IEEE International Conference on Computer
+  Vision}, pages 839--846, 1998.
+
+\bibitem{Tracey12}
+Brian Tracey and Eric Miller.
+\newblock Nonlocal means denoising of ecg signals.
+\newblock {\em Biomedical Engineering, IEEE Transactions on}, 59(9):2383--2386,
+  Sept 2012.
+
+\bibitem{Vishwanath94}
+Mohan Vishwanath.
+\newblock The recursive pyramid algorithm for the discrete wavelet transform.
+\newblock {\em Signal Processing, IEEE Transactions on}, 42(3):673--676, Mar
+  1994.
+
+\bibitem{Zang08}
+Ming Zang and Bahadir Gunturk.
+\newblock Multiresolution bilateral filtering for image denoising.
+\newblock {\em Image Processing, IEEE Transactions on}, 17(12):2324--2333, Dec
+  2008.
+
+\bibitem{Zoican10}
+Sorin Zoican.
+\newblock Speech de-noising system with non local means algorithm.
+\newblock In {\em Electronics and Telecommunications (ISETC), 2010 9th
+  International Symposium on}, pages 315--318, Nov 2010.
+
+\end{thebibliography}

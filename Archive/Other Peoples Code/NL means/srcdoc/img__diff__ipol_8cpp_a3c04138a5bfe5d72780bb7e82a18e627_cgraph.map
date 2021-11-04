@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" href="$io__png_8c.html#a262d986069f1b45053769f3a5659ba10" title="read a PNG file into a 32bit float array" alt="" coords="107,5,221,35"/>
+<area shape="rect" href="$io__png_8c.html#a8b49182e70dfd843d7bafbc7a5278172" title="write a float array into a PNG file" alt="" coords="105,59,223,88"/>
+<area shape="rect" href="$io__png_8c.html#a6169473ab2310b98f1602bf87c4ae09c" title="internal function used to read a PNG file into an array" alt="" coords="273,5,391,35"/>
+<area shape="rect" href="$io__png_8c.html#a4a3ceb9ec83c1dd6dcf1b431a845a9e3" title="internal function used to cleanup the memory when png_read_raw() fails" alt="" coords="441,5,569,35"/>
+<area shape="rect" href="$io__png_8c.html#a3ec19484bff2e7c83cc7e513ede5e4ea" title="internal function used to write a byte array as a PNG file" alt="" coords="272,59,392,88"/>
+<area shape="rect" href="$io__png_8c.html#a4f5427e76fa886b65fdefb2cf4f12ff2" title="internal function used to cleanup the memory when png_write_raw() fails" alt="" coords="441,59,569,88"/>
+</map>

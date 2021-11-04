@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" href="$io__png_8c.html#a6169473ab2310b98f1602bf87c4ae09c" title="internal function used to read a PNG file into an array" alt="" coords="183,139,300,168"/>
+<area shape="rect" href="$io__png_8h.html#a262d986069f1b45053769f3a5659ba10" title="read a PNG file into a 32bit float array" alt="" coords="367,5,481,35"/>
+<area shape="rect" href="$io__png_8h.html#a7b26dc88b7f194d4d46a0599e83cafd3" title="read a PNG file into a 32bit float array, converted to gray" alt="" coords="351,59,497,88"/>
+<area shape="rect" href="$io__png_8h.html#add2a6ef684e3a42aab4f9735d16d03e8" title="read a PNG file into a 32bit float array, converted to RGB" alt="" coords="353,112,495,141"/>
+<area shape="rect" href="$io__png_8h.html#a54ce4037b9759d9a8f31c01d3315821d" title="read a PNG file into a 8bit integer array" alt="" coords="368,165,480,195"/>
+<area shape="rect" href="$io__png_8h.html#acbe290d3529e65fdd55fd131af4713e1" title="read a PNG file into a 8bit integer array, converted to gray" alt="" coords="352,219,496,248"/>
+<area shape="rect" href="$io__png_8h.html#a75d4fa6df922812971d69be6d2d8c35c" title="read a PNG file into a 8bit integer array, converted to RGB" alt="" coords="356,272,492,301"/>
+<area shape="rect" href="$img__diff__ipol_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="548,5,596,35"/>
+</map>

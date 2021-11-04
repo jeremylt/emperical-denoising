@@ -1,0 +1,74 @@
+\begin{thebibliography}{10}
+
+\bibitem{Buades05}
+Jean Michel~Morel Antoni~Buades, Bartomeu~Coll.
+\newblock Image denoising based on gaussian/bilateral filter and its method
+  noise thresholding.
+\newblock {\em Multiscale Modeling and Simulation, Vol 4, No 2}, pages
+  490--530, 2005.
+
+\bibitem{Tracey12}
+Eric~Miller Brian~Tracey.
+\newblock Nonlocal mmeans denoising of ecg signals.
+\newblock {\em IEEE Transactions on Biomedical Engineering, Vol 59, No 9},
+  pages 2383--2386, 2012.
+
+\bibitem{Donoho94}
+Iain~Johnstone David~Donoho.
+\newblock Ideal spatial adaptation via wavelet shrinkage.
+\newblock {\em Biometrika, Vol 81, No. 3}, pages 425--455, 1994.
+
+\bibitem{Galiano13}
+Juli{\'a}n~Velasco Gonzalo~Galiano.
+\newblock On a non-local spectogram for denoising one-dimensional signals.
+\newblock {\em Computing Research Repository}, 2013.
+
+\bibitem{Graps95}
+Amara Graps.
+\newblock An introduction to wavelets.
+\newblock {\em IEEE Computational Science and Engineering, Vol 2, No 2}, pages
+  50--61, 1995.
+
+\bibitem{Mota05}
+Fl{\'a}vio~Vasconcelos Hilton~Mota and Rog{\'e}rio da~Silva.
+\newblock Real-time wavelet transform algorithms for the processing of
+  continuous streams of data.
+\newblock In {\em Intelligent Signal Processing, 2005 IEEE International
+  Workshop on}, Piscataway, NJ, USA, 346--351. Institute of Electrical and
+  Electronic Engineers.
+
+\bibitem{Zang08}
+Bahadir~Gunturk Ming~Zang.
+\newblock Multiresolution bilateral filtering for image denoising.
+\newblock {\em IEEE Transactions on Image Processing, Vol 17, No 12}, pages
+  2324--2333, 2008.
+
+\bibitem{Coupe07}
+Sylvain Prima Pierre Hellier Charles~Kervrann Pierrick~Coup{\'e}, Pierre~Yger
+  and Christian Barillot.
+\newblock An optimized blockwise non local means denoising filter for 3d
+  magnetic resonance images.
+\newblock {\em IEEE Transactions on Medical Imaging}, 2007.
+
+\bibitem{Gasser86}
+Christine Jennen-Stienmetz Theo~Gasser, Lothar~Sroka.
+\newblock Residual variance and residual pattern in nonlinear regression.
+\newblock {\em Biometrika, Vol 73, No. 3}, pages 625--633, 1986.
+
+\bibitem{Duval11}
+Yann~Gousseau Vincent~Duval, Jean-Francois~Aujol.
+\newblock On the parameter choice for the non-local means.
+\newblock {\em SIAM Journal on Imaging Sciences}, 2011.
+
+\bibitem{Vishwanath94}
+Mohan Vishwanath.
+\newblock The recursive pyramid algorithm for the discrete wavelet transform.
+\newblock {\em IEEE Transactions on Signal Processing, Vol. 42, No. 3}, pages
+  673--676, 1994.
+
+\bibitem{Zoican10}
+Sorin Zoican.
+\newblock Speech de-noising system with non local means algorithm.
+\newblock {\em SIAM Journal on Imaging Sciences}, pages 315--318, 2010.
+
+\end{thebibliography}

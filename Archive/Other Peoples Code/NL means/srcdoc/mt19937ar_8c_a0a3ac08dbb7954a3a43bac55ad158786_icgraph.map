@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" href="$mt19937ar_8c.html#a8ae6e48d2d82aa8bb4eceb7e06170c0e" title="genrand_int32" alt="" coords="148,7,249,36"/>
+<area shape="rect" href="$mt19937ar_8h.html#a0bbd8e4f975608273737fbaffba14335" title="initializes the generator with a seed" alt="" coords="300,59,412,88"/>
+<area shape="rect" href="$mt19937ar_8c.html#ad1297363c8571ec7fb395bc01062ae54" title="genrand_res53" alt="" coords="303,5,409,35"/>
+<area shape="rect" href="$mt19937ar_8h.html#a1a7dca2e3de5b904dded4d8e0950cd3b" title="generates a random number on [0,1) with 53&#45;bit resolution" alt="" coords="461,7,589,36"/>
+<area shape="rect" href="$libauxiliar_8h.html#acc05a826c32d65ea412f7e1e240cef10" title="fiAddNoise" alt="" coords="639,33,721,63"/>
+<area shape="rect" href="$nlmeans__ipol_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="772,33,820,63"/>
+</map>

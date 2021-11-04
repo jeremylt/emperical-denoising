@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" href="$io__png_8c.html#a3ec19484bff2e7c83cc7e513ede5e4ea" title="internal function used to write a byte array as a PNG file" alt="" coords="184,32,304,61"/>
+<area shape="rect" href="$io__png_8h.html#a8b49182e70dfd843d7bafbc7a5278172" title="write a float array into a PNG file" alt="" coords="353,5,471,35"/>
+<area shape="rect" href="$io__png_8h.html#accb143f7e473c3c10659010bf85a7457" title="write a 8bit unsigned integer array into a PNG file" alt="" coords="355,59,469,88"/>
+<area shape="rect" href="$img__diff__ipol_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="521,5,569,35"/>
+</map>
